@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 115">
+  <path d="M50 4 L92 20 L92 68 C92 90 72 106 50 114 C28 106 8 90 8 68 L8 20 Z" fill="#002B6B"/>
+  <path d="M50 4 L92 20 L92 68 C92 90 72 106 50 114 L50 4 Z" fill="#D4A017"/>
+  <text x="16" y="76" fill="white" font-size="44" font-weight="900" font-family="Georgia,serif">N</text>
+  <text x="53" y="76" fill="white" font-size="44" font-weight="900" font-family="Georgia,serif">E</text>
+</svg>
